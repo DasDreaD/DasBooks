@@ -1,0 +1,5 @@
+1. Implement logging
+2. Implement security
+3. Implement Swagger
+4. Implement exception handling
+5. 
